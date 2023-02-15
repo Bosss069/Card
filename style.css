@@ -144,3 +144,8 @@ intro page
     transition: all 1s ease;
     
 }
+s{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
